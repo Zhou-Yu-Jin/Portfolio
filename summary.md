@@ -4,7 +4,7 @@
 [用户体验项目之腾讯视频](https://gitee.com/qzbella/UX_final_Part1/blob/master/README.md)  
 [课题组之健康APP情感测试项目](https://gitee.com/UX_design_C/Healty_APP/blob/master/README.md)
 
-### 交互设计/APP设计 工具-Axsure
+### 交互设计/APP设计 工具-Axure
 [悦读小程序](https://zhou-yu-jin.github.io/final/#g=1&p=%E5%88%9D%E5%A7%8B%E5%8C%96)  
 [解忧杂货铺APP初构](https://github.com/Zhou-Yu-Jin/APP_team/blob/master/README.md)>>[原型设计](https://yt-amian.github.io/APP_team/#g=1&p=%E5%B0%81%E9%9D%A2t-h)    
 [智能闹钟产品设计](https://zhou-yu-jin.github.io/week7/#g=1&p=%E5%B0%81%E9%9D%A2)  
